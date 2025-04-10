@@ -1,2 +1,2 @@
-# TESTMIEI
- esercizi in php
+# Esercizi di PHP
+ Studio ed esercizi in php
