@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/valer/OneDrive/Desktop/programming learn/angular"
+		},
+		{
+			"path": "../../../../Users/valer/OneDrive/Desktop/programming learn/php"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "php"
+	}
+}
